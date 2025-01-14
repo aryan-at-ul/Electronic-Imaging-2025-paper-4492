@@ -27,4 +27,4 @@ To replicate the results from the paper, the following datasets are required:
 Run the training scripts with either passed or hardcoded configs. A separate training script is provided for each dataset. For example:
 
 ```bash
-python train.py
+train_woodscape_unetgnn.py
